@@ -31,9 +31,3 @@ public class Gizmo
     isElec = e;
   }
 }
-  public Gizmo(String s, boolean e)
-  {
-    maker = s;
-    isElec = e;
-  }
-}
