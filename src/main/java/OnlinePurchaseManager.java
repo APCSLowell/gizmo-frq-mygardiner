@@ -1,4 +1,3 @@
-import java.util.ArrayList;
 public class Gizmo
 {
   private String maker;
@@ -30,10 +29,5 @@ public class Gizmo
   {
     maker = s;
     isElec = e;
-  }
-}
-  public void add(Gizmo g)
-  {
-    purchases.add(g);
   }
 }
